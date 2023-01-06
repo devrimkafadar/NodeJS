@@ -9,10 +9,6 @@ const users = [
         name: "Devrim Kafadar",
         age: 21,
     },
-    {
-        name: 'Sinem Yegin',
-        age: 21,
-    }
 ];
 
 
